@@ -1,0 +1,4183 @@
+{
+  "product": "Qalam",
+  "version": "1.0",
+  "notes": {
+    "arabic_keyboard": "Classic 101 Arabic base layer. Diacritics are reserved for Harakat Challenge.",
+    "rtl": true,
+    "english_keyboard": "QWERTY",
+    "passage_punctuation": "Standard punctuation is included. Arabic passages intentionally use unvocalised text in the main three levels."
+  },
+  "race_words": [
+    {
+      "id": "ar-beg-word-001",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "بيت",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-002",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "باب",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-003",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "كتاب",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-004",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "قلم",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-005",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "كرسي",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-006",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "ماء",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-007",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "طعام",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-008",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "ولد",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-009",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "بنت",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-010",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "رجل",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-011",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "امرأة",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-012",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "طفل",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-013",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "أب",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-014",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "أم",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-015",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "أخ",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-016",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "أخت",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-017",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "صديق",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-018",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "مدرسة",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-019",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "فصل",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-020",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "معلم",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-021",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "طالب",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-022",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "يوم",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-023",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "ليل",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-024",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "صباح",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-025",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "مساء",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-026",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "وقت",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-027",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "مكان",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-028",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "طريق",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-029",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "مدينة",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-030",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "قرية",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-031",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "مسجد",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-032",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "شارع",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-033",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "سوق",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-034",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "عمل",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-035",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "درس",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-036",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "علم",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-037",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "نور",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-038",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "قلب",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-039",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "عقل",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-040",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "خير",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-041",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "حق",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-042",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "صدق",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-043",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "صبر",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-044",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "رحمة",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-045",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "سلام",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-046",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "دين",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-047",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "إيمان",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-048",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "قرآن",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-049",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "صلاة",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-050",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "دعاء",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-051",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "ذكر",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-052",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "صوم",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-053",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "حج",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-054",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "زكاة",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-055",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "أدب",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-056",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "خلق",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-057",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "نجاح",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-058",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "سؤال",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-059",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "جواب",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-060",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "قراءة",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-061",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "كتابة",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-062",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "حفظ",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-063",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "فهم",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-064",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "تعلم",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-065",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "تعليم",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-066",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "لعب",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-067",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "جلس",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-068",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "ذهب",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-069",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "جاء",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-070",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "قرأ",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-071",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "كتب",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-072",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "سمع",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-073",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "قال",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-word-074",
+      "language": "ar",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General Arabic",
+      "word": "فعل",
+      "difficulty": 1
+    },
+    {
+      "id": "ar-int-word-001",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التعليم",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-002",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التربية",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-003",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المعرفة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-004",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الدراسة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-005",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الجامعة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-006",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المجتمع",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-007",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المسؤولية",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-008",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الشخصية",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-009",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "السلوك",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-010",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "النجاح",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-011",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الاجتهاد",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-012",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الاستمرار",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-013",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التركيز",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-014",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التنظيم",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-015",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الأهداف",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-016",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المستقبل",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-017",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التجربة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-018",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المهارة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-019",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "القراءة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-020",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الكتابة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-021",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التفكير",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-022",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الفهم",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-023",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التطبيق",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-024",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التوجيه",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-025",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "النصيحة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-026",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الفضيلة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-027",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "العبادة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-028",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الطاعة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-029",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الأمانة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-030",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الإحسان",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-031",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الصدق",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-032",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الصبر",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-033",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التعاون",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-034",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الاحترام",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-035",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الأسرة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-036",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الوالدان",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-037",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المعلمون",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-038",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الطلاب",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-039",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "السنة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-040",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الحديث",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-041",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الشريعة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-042",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "العقيدة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-043",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الدعوة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-044",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الحكمة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-045",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الرحمة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-046",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المغفرة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-047",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التوبة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-048",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "التقوى",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-049",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الخشوع",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-050",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الإخلاص",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-051",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الاستقامة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-052",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "العدل",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-053",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الابتلاء",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-054",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الفلاح",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-055",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الخسران",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-056",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "النجاة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-057",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الظلم",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-058",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الفساد",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-059",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الهداية",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-060",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الموعظة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-061",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الراوي",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-062",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الرواية",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-063",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الإسناد",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-064",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المتن",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-065",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المحدث",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-066",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الصحابي",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-067",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "النية",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-068",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الأجر",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-069",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الثواب",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-070",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "النصيحة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-071",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "اسم",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-072",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "فعل",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-073",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "حرف",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-074",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "جملة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-075",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "فاعل",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-076",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "مفعول",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-077",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "مبتدأ",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-078",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "خبر",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-079",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "نعت",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-080",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "منعوت",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-081",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "مضاف",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-082",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "ضمير",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-083",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "اللغة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-084",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "النحو",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-085",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الصرف",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-086",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الأدب",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-087",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "البلاغة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-088",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الفصاحة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-089",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المعنى",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-090",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المفردات",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-091",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المراجعة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-092",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "الاختبار",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-093",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "المهارة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-word-094",
+      "language": "ar",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Arabic and Islamic Studies",
+      "word": "القدرة",
+      "difficulty": 2
+    },
+    {
+      "id": "ar-pro-word-001",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاستنباط",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-002",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاستدلال",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-003",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاستقراء",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-004",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاجتهاد",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-005",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المنهجية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-006",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الموضوعية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-007",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المعاصرة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-008",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المقاصد",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-009",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المصالح",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-010",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الضروريات",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-011",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الحاجيات",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-012",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التحسينيات",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-013",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاستقامة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-014",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاعتدال",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-015",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الوسطية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-016",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المراقبة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-017",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاستجابة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-018",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التدبر",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-019",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التلاوة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-020",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التفسير",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-021",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الحديث",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-022",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الشريعة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-023",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "العقيدة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-024",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الفقه",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-025",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المعاملات",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-026",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المقاصد الشرعية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-027",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاجتهاد الفقهي",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-028",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "أصول الفقه",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-029",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "علوم القرآن",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-030",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "علوم الحديث",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-031",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "مصطلح الحديث",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-032",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التفسير الموضوعي",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-033",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التفسير التحليلي",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-034",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "السياق",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-035",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الدلالة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-036",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "القرائن",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-037",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاستنباط الفقهي",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-038",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "القواعد الفقهية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-039",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الضوابط الشرعية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-040",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المسؤولية الاجتماعية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-041",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التنمية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-042",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الإصلاح",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-043",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الحضارة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-044",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الوعي",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-045",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التحليل",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-046",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "النقد",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-047",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التقويم",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-048",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "البحث العلمي",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-049",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المصادر الأصلية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-050",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المراجع العلمية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-051",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المنهج العلمي",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-052",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التحقيق",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-053",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التوثيق",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-054",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المقارنة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-055",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المناقشة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-056",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاستنتاج",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-057",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الفرضية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-058",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المتغيرات",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-059",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "البيانات",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-060",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "النتائج",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-061",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التوصيات",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-062",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المعلم",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-063",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المتعلم",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-064",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "استراتيجيات التدريس",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-065",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التقويم التربوي",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-066",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "علم النفس التربوي",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-067",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "القياس والتقويم",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-068",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التعلم النشط",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-069",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التعلم التعاوني",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-070",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التفكير الناقد",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-071",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "حل المشكلات",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-072",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المهارات الرقمية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-073",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التعليم الإلكتروني",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-074",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التعلم عن بعد",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-075",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "القيادة التربوية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-076",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التنمية المهنية",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-077",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الخطاب الدعوي",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-078",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "فقه الواقع",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-079",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "فقه الأولويات",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-080",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الحوار",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-081",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التسامح",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-082",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "العدالة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-083",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الإحسان",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-084",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المصلحة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-085",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المفسدة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-086",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الاعتدال",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-087",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الحكمة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-088",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "الموعظة الحسنة",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-089",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "البلاغ",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-090",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التأصيل",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-091",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التجديد",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-092",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "التراث",
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-word-093",
+      "language": "ar",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic and Islamic Arabic",
+      "word": "المعاصرة",
+      "difficulty": 3
+    },
+    {
+      "id": "en-beg-word-001",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "book",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-002",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "pen",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-003",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "school",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-004",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "teacher",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-005",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "student",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-006",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "home",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-007",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "door",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-008",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "chair",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-009",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "water",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-010",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "food",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-011",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "friend",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-012",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "family",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-013",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "father",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-014",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "mother",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-015",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "brother",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-016",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "sister",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-017",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "child",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-018",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "class",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-019",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "lesson",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-020",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "day",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-021",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "night",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-022",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "morning",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-023",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "time",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-024",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "place",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-025",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "road",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-026",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "city",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-027",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "market",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-028",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "work",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-029",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "study",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-030",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "read",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-031",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "write",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-032",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "learn",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-033",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "teach",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-034",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "help",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-035",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "good",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-036",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "kind",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-037",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "honest",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-038",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "peace",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-039",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "truth",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-040",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "hope",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-041",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "light",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-042",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "heart",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-043",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "mind",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-044",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "faith",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-045",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "prayer",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-046",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "mosque",
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-word-047",
+      "language": "en",
+      "mode": "race",
+      "level": "beginner",
+      "category": "General English",
+      "word": "Quran",
+      "difficulty": 1
+    },
+    {
+      "id": "en-int-word-001",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "education",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-002",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "learning",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-003",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "knowledge",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-004",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "teacher",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-005",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "student",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-006",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "classroom",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-007",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "community",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-008",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "responsibility",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-009",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "character",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-010",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "discipline",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-011",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "success",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-012",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "practice",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-013",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "reading",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-014",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "writing",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-015",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "thinking",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-016",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "understanding",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-017",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "application",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-018",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "leadership",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-019",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "future",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-020",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "experience",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-021",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "skill",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-022",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "respect",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-023",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "cooperation",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-024",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "honesty",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-025",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "patience",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-026",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "wisdom",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-027",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "mercy",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-028",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "guidance",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-029",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "worship",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-030",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "integrity",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-031",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "reflection",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-032",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "research",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-033",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "language",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-034",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "grammar",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-035",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "vocabulary",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-036",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "communication",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-037",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "assessment",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-038",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "development",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-039",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "motivation",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-040",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "creativity",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-041",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "confidence",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-042",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "purpose",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-043",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "service",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-044",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "society",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-045",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "family",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-046",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "environment",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-047",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "justice",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-048",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "kindness",
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-word-049",
+      "language": "en",
+      "mode": "race",
+      "level": "intermediate",
+      "category": "Education and General English",
+      "word": "excellence",
+      "difficulty": 2
+    },
+    {
+      "id": "en-pro-word-001",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "educational",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-002",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "psychology",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-003",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "assessment",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-004",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "measurement",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-005",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "methodology",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-006",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "quantitative",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-007",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "qualitative",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-008",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "correlation",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-009",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "analysis",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-010",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "interpretation",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-011",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "researcher",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-012",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "instructional",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-013",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "leadership",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-014",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "professional",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-015",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "development",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-016",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "critical",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-017",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "thinking",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-018",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "reflection",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-019",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "collaboration",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-020",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "responsibility",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-021",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "sustainability",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-022",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "community",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-023",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "engagement",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-024",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "transformation",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-025",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "innovation",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-026",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "technology",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-027",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "scholarship",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-028",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "academic",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-029",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "literature",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-030",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "evidence",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-031",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "argument",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-032",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "evaluation",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-033",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "reliability",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-034",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "validity",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-035",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "instrument",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-036",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "variables",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-037",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "hypothesis",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-038",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "statistics",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-039",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "findings",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-040",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "recommendations",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-041",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "pedagogy",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-042",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "curriculum",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-043",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "competence",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-044",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "communication",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-045",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "integrity",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-046",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "discipline",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-047",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "consistency",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-048",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "productivity",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-049",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "adaptation",
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-word-050",
+      "language": "en",
+      "mode": "race",
+      "level": "pro",
+      "category": "Academic English",
+      "word": "perspective",
+      "difficulty": 3
+    }
+  ],
+  "scribe_passages": [
+    {
+      "id": "ar-beg-01",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "Everyday Arabic",
+      "title": "الطالب المجتهد",
+      "text": "الطالب المجتهد يحب العلم، ويقرأ كتابه كل يوم. يذهب إلى المدرسة في الوقت المناسب، ويستمع إلى معلمه، ويكتب درسه بعناية.",
+      "wordCount": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-02",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "Islamic Vocabulary",
+      "title": "المسلم الصالح",
+      "text": "المسلم الصالح يحافظ على صلاته، ويبر والديه، ويحسن إلى جيرانه. يحب الخير للناس، ويقول الحق، ويبتعد عن الكذب.",
+      "wordCount": 18,
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-03",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "Family and Community",
+      "title": "الأسرة",
+      "text": "الأسرة مكان للمحبة والرحمة. يحب الأب أبناءه، وتعتني الأم بأطفالها، ويتعاون أفراد الأسرة في الخير ويساعد بعضهم بعضا.",
+      "wordCount": 18,
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-04",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "School and Learning",
+      "title": "في المدرسة",
+      "text": "في المدرسة يتعلم الطلاب القراءة والكتابة والحساب. يسأل الطالب معلمه إذا لم يفهم الدرس، ثم يراجع ما تعلمه في البيت.",
+      "wordCount": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-05",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "Quran",
+      "title": "القرآن الكريم",
+      "text": "القرآن كتاب الله، يقرأه المسلم كل يوم. يجد المسلم في القرآن هداية وخيرا ورحمة، ويتعلم منه الصدق والصبر وحسن العمل.",
+      "wordCount": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "ar-beg-06",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "Daily Life",
+      "title": "يوم جميل",
+      "text": "بدأ اليوم بصباح جميل. ذهب الطفل إلى المدرسة، ثم عاد إلى البيت، وتناول الطعام مع أسرته، وقرأ درسه قبل أن ينام.",
+      "wordCount": 21,
+      "difficulty": 1
+    },
+    {
+      "id": "ar-int-01",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Qur'anic Vocabulary",
+      "title": "القرآن والتدبر",
+      "text": "للقرآن الكريم أثر عظيم في تربية المسلم وبناء شخصيته. يقرأ المسلم الآيات، ويتدبر معانيها، ويحاول أن يجعل هداياتها جزءا من حياته وسلوكه.",
+      "wordCount": 22,
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-02",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Hadith",
+      "title": "السنة النبوية",
+      "text": "السنة النبوية مصدر مهم من مصادر الهداية. يتعلم المسلم منها العبادة والأخلاق وحسن التعامل، ويحرص العلماء على نقل الأحاديث ودراسة أسانيدها ومعانيها.",
+      "wordCount": 22,
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-03",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Arabic Grammar",
+      "title": "تعلم العربية",
+      "text": "تعلم العربية يساعد الطالب على فهم النصوص فهما أفضل. ولذلك يدرس المتعلم النحو والصرف والمفردات، ويمارس القراءة والكتابة حتى تزداد قدرته على التعبير.",
+      "wordCount": 23,
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-04",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Islamic Manners",
+      "title": "حسن الخلق",
+      "text": "حسن الخلق من الصفات التي يحبها الناس ويحث عليها الإسلام. ومن الأخلاق الحسنة الصدق والأمانة والصبر والرحمة والتواضع واحترام الآخرين.",
+      "wordCount": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-05",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Education",
+      "title": "الطالب الناجح",
+      "text": "الطالب الناجح ينظم وقته ويحدد أهدافه ويستفيد من أخطائه. وهو لا يعتمد على الحفظ وحده، بل يحاول أن يفهم ما يتعلمه وأن يطبقه في حياته.",
+      "wordCount": 25,
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-06",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Community",
+      "title": "خدمة المجتمع",
+      "text": "خدمة المجتمع مسؤولية مشتركة بين أفراده. يستطيع الإنسان أن يخدم مجتمعه بالتعليم، ومساعدة المحتاج، والمحافظة على البيئة، ونشر التعاون والاحترام بين الناس.",
+      "wordCount": 22,
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-07",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Da'wah",
+      "title": "الدعوة إلى الخير",
+      "text": "الدعوة إلى الخير تحتاج إلى علم وحكمة وصبر. ينبغي للداعية أن يفهم أحوال الناس، وأن يختار الكلام المناسب، وأن يقدم النصيحة بلطف واحترام.",
+      "wordCount": 23,
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-08",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Learning",
+      "title": "قيمة العلم",
+      "text": "العلم يفتح أبواب المعرفة، ويساعد الإنسان على فهم نفسه ومجتمعه. وكلما ازداد الطالب علما، ازدادت مسؤوليته في استخدام معرفته فيما ينفع الناس.",
+      "wordCount": 22,
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-09",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Study Skills",
+      "title": "تنظيم الوقت",
+      "text": "تنظيم الوقت من أسباب النجاح في الدراسة. يحدد الطالب أولوياته، ويقسم أعماله، ويترك وقتا للراحة والمراجعة، ويتجنب ما يشتت انتباهه.",
+      "wordCount": 20,
+      "difficulty": 2
+    },
+    {
+      "id": "ar-int-10",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Character",
+      "title": "الأمانة",
+      "text": "الأمانة خلق عظيم، وهي تشمل حفظ الحقوق والوفاء بالعهود وأداء المسؤوليات. ويحتاج المجتمع إلى أفراد صادقين يحافظون على الأمانة في أقوالهم وأعمالهم.",
+      "wordCount": 22,
+      "difficulty": 2
+    },
+    {
+      "id": "ar-pro-01",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Qur'anic Studies",
+      "title": "تدبر القرآن",
+      "text": "لا يقتصر تدبر القرآن الكريم على معرفة معاني المفردات، وإنما يتطلب النظر في سياق الآيات، وفهم هداياتها، وربط معانيها بمقاصد السورة وبواقع الإنسان وحياته.",
+      "wordCount": 24,
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-02",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Hadith Studies",
+      "title": "علم الحديث",
+      "text": "يعد علم الحديث من العلوم الأساسية في التراث الإسلامي، وقد بذل المحدثون جهودا عظيمة في جمع الروايات وتمييز الصحيح من الضعيف، والنظر في أحوال الرواة واتصال الأسانيد.",
+      "wordCount": 27,
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-03",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Fiqh and Shariah",
+      "title": "مقاصد الشريعة",
+      "text": "تسعى مقاصد الشريعة إلى تحقيق مصالح العباد ودفع المفاسد عنهم، وتظهر في الأحكام معاني العدل والرحمة والحكمة، بما يحفظ الضروريات ويحقق صلاح الفرد والمجتمع.",
+      "wordCount": 24,
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-04",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Da'wah",
+      "title": "فقه الدعوة",
+      "text": "تحتاج الدعوة إلى علم صحيح وحكمة في التعامل وصبر على الناس وقدرة على فهم اختلاف مستوياتهم واحتياجاتهم. فالداعية الناجح يجمع بين وضوح الحق وحسن الأسلوب.",
+      "wordCount": 25,
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-05",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Academic Arabic",
+      "title": "البحث العلمي",
+      "text": "يقوم البحث العلمي على سؤال واضح ومنهج مناسب وجمع منظم للبيانات وتحليل دقيق للنتائج. ويحتاج الباحث إلى التوثيق والمقارنة والنقد حتى يصل إلى استنتاجات يمكن الدفاع عنها.",
+      "wordCount": 27,
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-06",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Education",
+      "title": "التعليم وبناء الإنسان",
+      "text": "لا تقتصر قيمة التعليم على نقل المعلومات، وإنما تظهر حقيقته حين يتحول العلم إلى وعي راسخ وسلوك صالح وعمل نافع. ولذلك ينبغي للمؤسسات التعليمية أن تجمع بين المعرفة والتربية وتنمية مهارات التفكير.",
+      "wordCount": 32,
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-07",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Islamic Thought",
+      "title": "التجديد",
+      "text": "لا يعني التجديد العلمي إلغاء التراث أو تجاهله، بل يعني فهمه فهما واعيا، وتمييز الثابت من المتغير، والاستفادة من أدوات البحث الحديثة في معالجة قضايا العصر ضمن أصول العلم.",
+      "wordCount": 29,
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-08",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Arabic Language",
+      "title": "مكانة العربية",
+      "text": "تمتلك اللغة العربية تراثا علميا وأدبيا واسعا، وهي لغة القرآن الكريم. ومن خلال دراسة النحو والصرف والبلاغة يستطيع الطالب أن يكتسب قدرة أكبر على فهم النصوص وتحليل أساليبها ودلالاتها.",
+      "wordCount": 29,
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-09",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Critical Thinking",
+      "title": "التفكير الناقد",
+      "text": "التفكير الناقد لا يعني رفض كل فكرة، وإنما يعني فحص الأدلة وتحليل الحجج والتمييز بين الرأي والمعلومة. وهذه المهارة تساعد المتعلم على اتخاذ قرارات أكثر وعيا واتزانا.",
+      "wordCount": 27,
+      "difficulty": 3
+    },
+    {
+      "id": "ar-pro-10",
+      "language": "ar",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Educational Leadership",
+      "title": "القيادة التربوية",
+      "text": "تقوم القيادة التربوية الفاعلة على وضوح الرؤية، وبناء العلاقات، وتحمل المسؤولية، وتحفيز العاملين والمتعلمين. والقائد الناجح لا يكتفي بإدارة العمل، بل يسهم في بناء ثقافة إيجابية مستدامة.",
+      "wordCount": 27,
+      "difficulty": 3
+    },
+    {
+      "id": "en-beg-01",
+      "language": "en",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "Everyday English",
+      "title": "A Good Student",
+      "text": "A good student listens carefully, reads every day, and completes each lesson with patience. Learning takes time, but steady practice brings good results.",
+      "wordCount": 23,
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-02",
+      "language": "en",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "Learning",
+      "title": "The Classroom",
+      "text": "The classroom is a place for learning and friendship. Students ask questions, share ideas, help one another, and respect their teacher.",
+      "wordCount": 21,
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-03",
+      "language": "en",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "Character",
+      "title": "Good Character",
+      "text": "Good character begins with honesty, kindness, patience, and respect. A person who treats others well can make the community better.",
+      "wordCount": 20,
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-04",
+      "language": "en",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "Family",
+      "title": "The Family",
+      "text": "A family grows through love, care, and cooperation. Parents guide their children, while children learn to respect and help their family.",
+      "wordCount": 21,
+      "difficulty": 1
+    },
+    {
+      "id": "en-beg-05",
+      "language": "en",
+      "mode": "scribe",
+      "level": "beginner",
+      "category": "Islamic Life",
+      "title": "A Day of Worship",
+      "text": "A Muslim begins the day with prayer and remembers Allah throughout the day. Good words, honest work, and kindness to others are also acts of worship.",
+      "wordCount": 26,
+      "difficulty": 1
+    },
+    {
+      "id": "en-int-01",
+      "language": "en",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Education",
+      "title": "The Value of Education",
+      "text": "Education gives people knowledge, skills, and confidence. It helps learners understand their environment, solve problems, and contribute positively to their communities.",
+      "wordCount": 21,
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-02",
+      "language": "en",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Leadership",
+      "title": "Responsible Leadership",
+      "text": "Good leadership begins with responsibility. A leader listens to people, communicates clearly, keeps promises, and creates opportunities for others to grow.",
+      "wordCount": 21,
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-03",
+      "language": "en",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Research",
+      "title": "Learning Through Research",
+      "text": "Research helps us move from assumptions to evidence. A careful researcher asks clear questions, gathers relevant data, analyses the results, and explains the findings honestly.",
+      "wordCount": 25,
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-04",
+      "language": "en",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Character",
+      "title": "The Power of Consistency",
+      "text": "Success rarely comes from one great effort. It usually develops through small actions repeated with discipline, patience, and a willingness to learn from mistakes.",
+      "wordCount": 24,
+      "difficulty": 2
+    },
+    {
+      "id": "en-int-05",
+      "language": "en",
+      "mode": "scribe",
+      "level": "intermediate",
+      "category": "Community",
+      "title": "Serving the Community",
+      "text": "Community development begins when people recognise shared responsibilities. Teaching, mentoring young people, protecting the environment, and helping vulnerable families can create meaningful change.",
+      "wordCount": 23,
+      "difficulty": 2
+    },
+    {
+      "id": "en-pro-01",
+      "language": "en",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Academic English",
+      "title": "Evidence and Knowledge",
+      "text": "Academic work requires more than collecting information. A strong researcher evaluates evidence, considers alternative explanations, and presents conclusions that are consistent with the available data.",
+      "wordCount": 25,
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-02",
+      "language": "en",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Education",
+      "title": "Technology and Learning",
+      "text": "Educational technology can expand access to learning, but technology alone does not guarantee better outcomes. Effective integration requires clear objectives, appropriate pedagogy, meaningful assessment, and continuous reflection.",
+      "wordCount": 27,
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-03",
+      "language": "en",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Leadership",
+      "title": "Leadership and Trust",
+      "text": "Trust is built through consistent decisions, transparent communication, and responsible action. Leaders who understand the needs of their teams are better positioned to create environments where people can learn, contribute, and improve.",
+      "wordCount": 32,
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-04",
+      "language": "en",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Research",
+      "title": "Interpreting Findings",
+      "text": "Statistical results should be interpreted within the context of the research design, sample, variables, and measurement instruments. A significant relationship does not automatically establish causation.",
+      "wordCount": 25,
+      "difficulty": 3
+    },
+    {
+      "id": "en-pro-05",
+      "language": "en",
+      "mode": "scribe",
+      "level": "pro",
+      "category": "Lifelong Learning",
+      "title": "The Learning Mindset",
+      "text": "Lifelong learning requires curiosity, humility, and disciplined practice. People who remain willing to question their assumptions and develop new skills are more prepared to respond intelligently to changing circumstances.",
+      "wordCount": 29,
+      "difficulty": 3
+    }
+  ],
+  "harakat_challenge": {
+    "enabled": true,
+    "stages": [
+      {
+        "id": "h1",
+        "name": "Single Harakat",
+        "difficulty": 4,
+        "items": [
+          "كَتَبَ",
+          "ذَهَبَ",
+          "جَلَسَ",
+          "قَرَأَ",
+          "عَلِمَ",
+          "فَهِمَ",
+          "دَرَسَ",
+          "حَفِظَ"
+        ]
+      },
+      {
+        "id": "h2",
+        "name": "Mixed Harakat",
+        "difficulty": 5,
+        "items": [
+          "مُسْلِم",
+          "مُعَلِّم",
+          "مَدْرَسَة",
+          "مَكْتَب",
+          "قُرْآن",
+          "رَحْمَة",
+          "هِدَايَة"
+        ]
+      },
+      {
+        "id": "h3",
+        "name": "Shaddah and Sukoon",
+        "difficulty": 6,
+        "items": [
+          "مُحَمَّد",
+          "مُعَلِّم",
+          "مُدَرِّس",
+          "الصَّلَاة",
+          "التَّعْلِيم",
+          "الرَّحْمَة"
+        ]
+      },
+      {
+        "id": "h4",
+        "name": "Full Vocalised Passage",
+        "difficulty": 7,
+        "items": [
+          "إِنَّ طَلَبَ الْعِلْمِ مِنْ أَفْضَلِ الْأَعْمَالِ، وَإِنَّ الْعِلْمَ النَّافِعَ يَرْفَعُ قَدْرَ الْإِنْسَانِ وَيَهْدِيهِ إِلَى الْخَيْرِ."
+        ]
+      }
+    ]
+  }
+}
